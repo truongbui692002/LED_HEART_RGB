@@ -1,0 +1,62 @@
+Added Component: Designator=B1(BUTTON_2_SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B2(BUTTON_2_SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Led_matrix1(JP5H)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ESP32_WROOM32E)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1904-1010-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/espressif-systems/ESP32-WROOM-32/1904-1010-1-ND/8544305?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-WROOM-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Module Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-WROOM-32/Espressif%20Systems/view-part/2753322/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=EN Pin=B1-2
+Added Pin To Net: NetName=GND Pin=B2-1
+Added Pin To Net: NetName=IO0 Pin=B2-2
+Added Pin To Net: NetName=+3.3V Pin=Led_matrix1-1
+Added Pin To Net: NetName=GND Pin=Led_matrix1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=RST Pin=Q1-2
+Added Pin To Net: NetName=EN Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=DTR Pin=Q2-2
+Added Pin To Net: NetName=IO0 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Pin To Net: NetName=EN Pin=U1-3
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=IO0 Pin=U1-25
+Added Pin To Net: NetName=CH340_TXD Pin=U1-34
+Added Pin To Net: NetName=CH340_RXD Pin=U1-35
+Added Pin To Net: NetName=NetLed_matrix1_3 Pin=Led_matrix1-3
+Added Pin To Net: NetName=NetLed_matrix1_3 Pin=U1-37
+Added Net: Name=NetLed_matrix1_3
+Added Pin To Net: NetName=NetLed_matrix1_4 Pin=Led_matrix1-4
+Added Pin To Net: NetName=NetLed_matrix1_4 Pin=U1-29
+Added Net: Name=NetLed_matrix1_4
+Added Pin To Net: NetName=NetLed_matrix1_5 Pin=Led_matrix1-5
+Added Pin To Net: NetName=NetLed_matrix1_5 Pin=U1-30
+Added Net: Name=NetLed_matrix1_5
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetU1_8 Pin=U8-4
+Added Net: Name=NetU1_8
+Added Member To Class: ClassName=U_esp32 Member=Component B1 Button 3x4x2.5
+Added Member To Class: ClassName=U_esp32 Member=Component B2 Button 3x4x2.5
+Added Member To Class: ClassName=U_esp32 Member=Component Led_matrix1 JP5
+Added Member To Class: ClassName=U_esp32 Member=Component Q1 C1815
+Added Member To Class: ClassName=U_esp32 Member=Component Q2 C1815
+Added Member To Class: ClassName=U_esp32 Member=Component U1 ESP32-WROOM-32

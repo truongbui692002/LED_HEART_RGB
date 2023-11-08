@@ -1,0 +1,6 @@
+Change Component Comment : Designator=B2 Old Comment=Button 3x4x2.5 New Comment=BOOT
+Change Component Comment : Designator=B1 Old Comment=Button 3x4x2.5 New Comment=EN
+Added Member To Class: ClassName=U_esp32 Member=Component LED1 LED
+Added Member To Class: ClassName=U_esp32 Member=Component R1 1k
+Added Room: Name=U_esp32
+Added Room: Name=U_led

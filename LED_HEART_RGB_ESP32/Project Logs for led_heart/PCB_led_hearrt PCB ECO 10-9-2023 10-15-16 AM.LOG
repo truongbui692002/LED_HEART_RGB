@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetU1_8 Pin=U8-4
+Removed Pin From Net: NetName=NetU1_10 Pin=U16-4
+Removed Pin From Net: NetName=NetU1_11 Pin=U24-4
+Removed Pin From Net: NetName=NetU1_12 Pin=U32-4
+Added Pin To Net: NetName=NetU1_12 Pin=U8-4
+Added Pin To Net: NetName=NetU1_11 Pin=U16-4
+Added Pin To Net: NetName=NetU1_10 Pin=U24-4
+Added Pin To Net: NetName=NetU1_8 Pin=U32-4
+Added Room: Name=U_esp32
+Added Room: Name=U_led

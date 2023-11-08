@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=sche.SchDoc
+Record=SheetSymbol|SourceDocument=sche.SchDoc|Designator=U_esp32|SchDesignator=U_esp32|FileName=esp32.SchDoc|SymbolType=Normal|RawFileName=esp32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=sche.SchDoc|Designator=U_led|SchDesignator=U_led|FileName=led.SchDoc|SymbolType=Normal|RawFileName=led.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

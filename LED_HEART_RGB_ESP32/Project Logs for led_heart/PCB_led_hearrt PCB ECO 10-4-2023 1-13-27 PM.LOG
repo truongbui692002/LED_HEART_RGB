@@ -1,0 +1,25 @@
+Change Component Comment : Designator=B2 Old Comment=Boot New Comment=Button 3x4x2.5
+Change Component Comment : Designator=B1 Old Comment=RST New Comment=Button 3x4x2.5
+Added Component: Designator=U2(SOIC127P600X180-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CH340C/WCH/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "WCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CH340C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CH340C/WCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=CH340_TXD Pin=U2-2
+Added Pin To Net: NetName=CH340_RXD Pin=U2-3
+Added Pin To Net: NetName=+3.3V Pin=U2-4
+Added Pin To Net: NetName=D_P Pin=U2-5
+Added Pin To Net: NetName=D_N Pin=U2-6
+Added Pin To Net: NetName=DTR Pin=U2-13
+Added Pin To Net: NetName=RST Pin=U2-14
+Added Pin To Net: NetName=+3.3V Pin=U2-16
+Added Member To Class: ClassName=U_esp32 Member=Component Led_matrix1 JP5
+Added Member To Class: ClassName=U_esp32 Member=Component U2 CH340C
+Added Room: Name=U_esp32
+Added Room: Name=U_led
